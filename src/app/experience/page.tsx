@@ -34,14 +34,19 @@ export default function Experience() {
             <div className="my-1">
               <ol className="list-outside list-disc space-y-1 px-3">
                 <li className="px-1">
-                  Developing new web app features using .NET framework, such as
-                  document controller, which is a central location for users to
-                  look up, sort, edit, upload, and delete documents
+                  Developed full-stack web app features using .NET Framework to serve
+                  enterprise customers such as McDonald’s, Walmart, and BofA, allowing
+                  large-scale document permission management, lookup, edition, upload, and
+                  deletion services
                 </li>
                 <li className="px-1">
-                  Implementing client-facing web front-end with React, directly
-                  serving enterprise customers such as McDonald’s, Walmart, and
-                  BofA
+                  Revitalized user experience by refactoring CSS, HTML, JavaScript, React
+                  code to align with industry-leading accessibility and UX standards
+                </li>
+                <li className="px-1">
+                  Leading an innovative research project using variational
+                  autoencoder (artificial neural network tensorflow) to predict
+                  counterfactual campaign outcomes in a company AI initiative
                 </li>
               </ol>
             </div>
@@ -77,30 +82,27 @@ export default function Experience() {
             <div className="my-1">
               <ol className="list-outside list-disc space-y-1 px-3">
                 <li className="px-1">
-                  Defined and developed key metrics in data visualization
-                  dashboards
+                  Developed a data visualization dashboard with 10 progress-tracking
+                  metrics and presented at a client-facing Product Demo session
                 </li>
                 <li className="px-1">
-                  Collaborated with Product and Sales team to present dashboards
-                  at a client-facing Product Demo
+                  Communicated core needs with the engineering team to speed up their
+                  data querying process by designing SQLAlchemy wrappers to scalably query OLAP
                 </li>
                 <li className="px-1">
-                  Implemented comprehensive & robust data cleaning process to
-                  reduce platform test errors systematically, reducing 30% of
-                  the time bioinformaticians spent on housekeeping tasks
+                  Designed a template and workflow document for 2 NLP scientists to
+                  auto-generate HTML webpages for machine learning pre-training
                 </li>
                 <li className="px-1">
-                  Built, maintained, debugged infrastructure that streamlined
-                  and scaled 100x patient profile simulation based on real-world
-                  distribution to reduce manual labor
+                  Reduced 30% of the time bioinformaticians spent on housekeeping tasks by
+                  implementing a comprehensive and robust data cleaning process to reduce
+                  platform test errors systematically
                 </li>
                 <li className="px-1">
-                  Designed SQLAlchemy wrappers to scalably query OLAP
-                  multi-dimensional array of data in PostgreSQL databases
-                </li>
-                <li className="px-1">
-                  Integrated FreeMarker API with machine learning pipeline to
-                  auto-generate free-text notes for NLP pre-training preparation
+                  Saved 50% of the manual labor of patient profile simulation by building
+                  and maintaining an infrastructure that streamlined and scaled 100x simulation
+                  based on real-world distribution multi-dimensional array of data in
+                  PostgreSQL databases
                 </li>
               </ol>
             </div>
