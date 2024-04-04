@@ -29,7 +29,7 @@ export default function Home() {
           <div className="flex-col space-x-1 py-2">
             <CalButton />
             <Link
-              href="/documents/yihan_shi_pm_24.pdf"
+              href="/documents/resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -71,7 +71,7 @@ export default function Home() {
               </li>
               <li className="inline-block transition hover:text-[#978d94]">
                 <Link
-                  href="https://github.com/ys262/"
+                  href="https://github.com/yihan-shi/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
