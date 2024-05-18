@@ -25,7 +25,7 @@ export default function Sidebar() {
           {[
             ["Home", "/"],
             ["Experience", "/experience"],
-            ["Portfolio", "/portfolio"],
+            ["Publications", "/publications"],
             // ["Shop", "/shop"],
           ].map(([title, url]) => (
             <li key={title}>

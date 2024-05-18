@@ -49,7 +49,7 @@ export default function Navbar() {
           {[
             ["Home", "/"],
             ["Experience", "/experience"],
-            ["Portfolio", "/portfolio"],
+            ["Publications", "/publications"],
             // ["Shop", "/shop"],
           ].map(([title, url]) => (
             <li className="text-center" key={title}>

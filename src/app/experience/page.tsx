@@ -40,12 +40,12 @@ export default function Experience() {
                   deletion services
                 </li>
                 <li className="px-1">
-                  Revitalized user experience by refactoring CSS, HTML, JavaScript, React
+                  Revitalized user experience by refactoring CSS, HTML, JavaScript
                   code to align with industry-leading accessibility and UX standards
                 </li>
                 <li className="px-1">
                   Leading an innovative research project using variational
-                  autoencoder (artificial neural network tensorflow) to predict
+                  autoencoder (an artificial neural network) to predict
                   counterfactual campaign outcomes in a company AI initiative
                 </li>
               </ol>
