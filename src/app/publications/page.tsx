@@ -39,7 +39,7 @@ export default function Publications() {
                 <li className="px-1">
                   ‘<Link
                     className="underline"
-                    href="https://faseb.onlinelibrary.wiley.com/doi/10.1096/fasebj.2022.36.S1.R2442"
+                    href="https://doi.org/10.1096/fasebj.2022.36.S1.R2442"
                     rel="noopener noreferrer"
                     target="_blank">
                     Accumulation of pathological ataxin-7 in the medulla leads to hypoglossal (XII) motor unit pathology
