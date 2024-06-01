@@ -14,9 +14,14 @@ export default function Publications() {
                   J, Scarrow ER, Huston M, Kehoe S, Lai E, La Spada AR, ElMallah MK. [submitted manuscript]
                 </li>
                 <li className="px-1">
-                  ‘Respiratory Characterization of a Humanized Duchenne Muscular Dystrophy Mouse Model’. Angela L. Roger, Debolina D. Biswas,
-                  Meredith L Huston, Davina Le, Aidan M. Bailey, Logan A. Pucci, <span className="font-bold">Yihan Shi</span>, Jacqueline Robinson-Hamm, Charles A. Gersbach.
-                  [submitted manuscript]
+                  ‘<Link
+                    className="underline"
+                    href="https://doi.org/10.1016/j.resp.2024.104282"
+                    rel="noopener noreferrer"
+                    target="_blank">
+                    Respiratory Characterization of a Humanized Duchenne Muscular Dystrophy Mouse Model
+                  </Link>’. Angela L. Roger, Debolina D. Biswas,
+                  Meredith L Huston, Davina Le, Aidan M. Bailey, Logan A. Pucci, <span className="font-bold">Yihan Shi</span>, Jacqueline Robinson-Hamm, Charles A. Gersbach, Mai K. ElMallah.
                 </li>
                 <li className="px-1">
                   ‘<Link
