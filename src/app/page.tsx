@@ -17,12 +17,12 @@ export default function Home() {
           <span className="block text-xl">Hi, I’m</span>
           <span className="block py-2 text-3xl font-medium">Yihan Shi!</span>
           <span className="max-w-prose py-2">
-            Based in Washington DC, I’m a software engineer by day, and
-            photographer by night. Prior to joining Mastercard, I graduated from
-            Duke University with a B.S. in Statistics and minors in CS and
-            Neuroscience. My other hobbies include playing the piano, cooking,
-            and reading. Please feel free to contact me for any questions or
-            comments!
+          Based in Washington, D.C., I’m a software engineer by day and a
+          photographer by night. Prior to joining Mastercard, I graduated
+          from Duke University with a B.S. in statistics and minors in computer
+          science and neuroscience. My other hobbies include playing the piano,
+          cooking, and reading. Please feel free to contact me if you have any
+          questions or comments!
           </span>
         </p>
         <div className="py-3">
