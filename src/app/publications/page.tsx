@@ -37,11 +37,11 @@ export default function Publications() {
                     rel="noopener noreferrer"
                     target="_blank">
                     Investigate the impact of Confounding Medical Interventions (CMI) in electronic health records (EHR) data
-                  </Link>’. <span className="font-bold">Shi Y</span>, Goldstein B [Undergraduate Honors Thesis]
+                  </Link>’. <span className="font-bold">Shi Y</span>, Goldstein B. [Undergraduate Honors Thesis]
                 </li>
                 <li className="px-1">
                   Summer Neuroscience Program, Duke University, 2021. ‘Impact of Spinocerebellar Ataxia Type 7 on RNA expression in the respiratory
-                  motor units’. <span className="font-bold">Y. Shi</span>, D.D. Biswas, M.K. ElMallah
+                  motor units’. <span className="font-bold">Y. Shi</span>, D.D. Biswas, M.K. ElMallah.
                 </li>
                 <li className="px-1">
                   ‘<Link
