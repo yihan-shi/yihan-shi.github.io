@@ -10,8 +10,15 @@ export default function Publications() {
             <div className="my-1">
               <ol className="list-outside list-disc space-y-1 px-3">
                 <li className="px-1">
-                  ‘Respiratory Neuropathology in Spinocerebellar Ataxia Type 7’. Biswas DD, <span className="font-bold">Shi Y</span>, El Haddad L, Sethi R, Strickland LM, Pucci LM, Dhindsa
-                  J, Scarrow ER, Huston M, Kehoe S, Lai E, La Spada AR, ElMallah MK. [submitted manuscript]
+                ‘<Link
+                    className="underline"
+                    href="https://doi.org/10.1172/jci.insight.170444"
+                    rel="noopener noreferrer"
+                    target="_blank">
+                    Respiratory neuropathology in Spinocerebellar ataxia type 7
+                  </Link>’. Biswas DD, <span className="font-bold">Shi Y</span>, El Haddad L, Sethi R, Huston M,
+                  Kehoe S, Scarrow ER, Strickland LM, Pucci LA, Dhindsa
+                  J, Hunanyan A, La Spada AR, ElMallah MK.
                 </li>
                 <li className="px-1">
                   ‘<Link
@@ -19,7 +26,7 @@ export default function Publications() {
                     href="https://doi.org/10.1016/j.resp.2024.104282"
                     rel="noopener noreferrer"
                     target="_blank">
-                    Respiratory Characterization of a Humanized Duchenne Muscular Dystrophy Mouse Model
+                    Respiratory characterization of a humanized Duchenne muscular dystrophy mouse model
                   </Link>’. Angela L. Roger, Debolina D. Biswas,
                   Meredith L Huston, Davina Le, Aidan M. Bailey, Logan A. Pucci, <span className="font-bold">Yihan Shi</span>, Jacqueline Robinson-Hamm, Charles A. Gersbach, Mai K. ElMallah.
                 </li>
@@ -42,7 +49,7 @@ export default function Publications() {
                     href="https://doi.org/10.1096/fasebj.2022.36.S1.R2442"
                     rel="noopener noreferrer"
                     target="_blank">
-                    Accumulation of pathological ataxin-7 in the medulla leads to hypoglossal (XII) motor unit pathology
+                    Accumulation of pathological Ataxin-7 in the medulla leads to hypoglossal (XII) motor unit pathology
                   </Link>’. Biswas DD, Strickland LM, Dhindsa J, <span className="font-bold">Shi Y</span>, Sethi R, Scarrow ER, Kehoe S, Lai E, ElMallah MK.
                 </li>
               </ol>
