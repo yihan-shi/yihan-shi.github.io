@@ -33,24 +33,24 @@ export default function Publications() {
                 <li className="px-1">
                   ‘<Link
                     className="underline"
-                    href="https://drive.google.com/file/d/1XVAjCAbA0CpmVhgnWeqifdWl5D1oNRpZ/view"
-                    rel="noopener noreferrer"
-                    target="_blank">
-                    Investigate the impact of Confounding Medical Interventions (CMI) in electronic health records (EHR) data
-                  </Link>’. <span className="font-bold">Shi Y</span>, Goldstein B. [Undergraduate Honors Thesis]
-                </li>
-                <li className="px-1">
-                  Summer Neuroscience Program, Duke University, 2021. ‘Impact of Spinocerebellar Ataxia Type 7 on RNA expression in the respiratory
-                  motor units’. <span className="font-bold">Y. Shi</span>, D.D. Biswas, M.K. ElMallah.
-                </li>
-                <li className="px-1">
-                  ‘<Link
-                    className="underline"
                     href="https://doi.org/10.1096/fasebj.2022.36.S1.R2442"
                     rel="noopener noreferrer"
                     target="_blank">
                     Accumulation of pathological Ataxin-7 in the medulla leads to hypoglossal (XII) motor unit pathology
                   </Link>’. Biswas DD, Strickland LM, Dhindsa J, <span className="font-bold">Shi Y</span>, Sethi R, Scarrow ER, Kehoe S, Lai E, ElMallah MK.
+                </li>
+                <li className="px-1">
+                  ‘<Link
+                    className="underline"
+                    href="https://drive.google.com/file/d/1XVAjCAbA0CpmVhgnWeqifdWl5D1oNRpZ/view"
+                    rel="noopener noreferrer"
+                    target="_blank">
+                    Investigate the impact of Confounding Medical Interventions (CMI) in electronic health records (EHR) data
+                  </Link>’. <span className="font-bold">Shi Y</span>, Goldstein B. <span className="font-bold">[Undergraduate Honors Thesis]</span>
+                </li>
+                <li className="px-1">
+                  Summer Neuroscience Program, Duke University, 2021. ‘Impact of Spinocerebellar Ataxia Type 7 on RNA expression in the respiratory
+                  motor units’. <span className="font-bold">Y. Shi</span>, D.D. Biswas, M.K. ElMallah.
                 </li>
               </ol>
             </div>
