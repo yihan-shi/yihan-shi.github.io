@@ -35,7 +35,7 @@ export default function Experience() {
               <ol className="list-outside list-disc space-y-1 px-3">
                 <li className="px-1">
                   Developed full-stack web application features using the .NET Framework
-                  for enterprise customers such as McDonald's, Walmart, and Bank of America,
+                  for enterprise customers such as McDonald’s, Walmart, and Bank of America,
                   enabling large-scale document permission management, lookup, editing,
                   uploading, and deletion services
                 </li>
