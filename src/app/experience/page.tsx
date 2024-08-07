@@ -25,7 +25,7 @@ export default function Experience() {
                   Mastercard Data & Services
                 </li>
                 <li className="text-[#737373]">
-                  <span className="mr-1">Aug 2023 – Present</span>
+                  <span className="mr-1">Aug 2023 – Aug 2024</span>
                   <span className="mx-1 max-lg:hidden">|</span>
                   <span className="mx-1 max-lg:hidden">Arlington, VA</span>
                 </li>
@@ -34,19 +34,19 @@ export default function Experience() {
             <div className="my-1">
               <ol className="list-outside list-disc space-y-1 px-3">
                 <li className="px-1">
-                  Developed full-stack web app features using .NET Framework to serve
-                  enterprise customers such as McDonald’s, Walmart, and BofA, allowing
-                  large-scale document permission management, lookup, edition, upload, and
-                  deletion services
+                  Developed full-stack web application features using the .NET Framework
+                  for enterprise customers such as McDonald's, Walmart, and Bank of America,
+                  enabling large-scale document permission management, lookup, editing,
+                  uploading, and deletion services
                 </li>
                 <li className="px-1">
                   Revitalized user experience by refactoring CSS, HTML, JavaScript
                   code to align with industry-leading accessibility and UX standards
                 </li>
                 <li className="px-1">
-                  Leading an innovative research project using variational
-                  autoencoder (an artificial neural network) to predict
-                  counterfactual campaign outcomes in a company AI initiative
+                  Led an innovative research project using variational autoencoders
+                  (a type of artificial neural network) to predict counterfactual
+                  campaign outcomes as part of a company AI initiative
                 </li>
               </ol>
             </div>
