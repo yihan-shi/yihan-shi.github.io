@@ -10,6 +10,35 @@ export default function Experience() {
           <div className="w-auto px-6 py-4">
             <div className="my-2 flex shrink-0 flex-row items-center">
               <Image
+                src="/icons/brookings.jpg"
+                alt="Logo"
+                width={64}
+                height={64}
+              />
+              <ol className="px-4">
+                <li>
+                  <MdWork className="mr-1 inline-block h-5 w-5 align-bottom" />
+                  <span className="font-semibold">Senior Research Assistant</span>
+                </li>
+                <li>
+                  <MdAlternateEmail className="mr-1 inline-block h-5 w-5 align-bottom" />
+                  The Brookings Institution
+                </li>
+                <li className="text-[#737373]">
+                  <span className="mr-1">Aug 2024 – Present</span>
+                  <span className="mx-1 max-lg:hidden">|</span>
+                  <span className="mx-1 max-lg:hidden">Washington, D.C.</span>
+                </li>
+              </ol>
+            </div>
+            <div className="my-1">
+            </div>
+          </div>
+        </li>
+        <li className="rounded-md bg-white">
+          <div className="w-auto px-6 py-4">
+            <div className="my-2 flex shrink-0 flex-row items-center">
+              <Image
                 src="/icons/mastercard.jpg"
                 alt="Logo"
                 width={64}
@@ -65,7 +94,7 @@ export default function Experience() {
                 <li>
                   <MdWork className="mr-1 inline-block h-5 w-5 align-bottom" />
                   <span className="font-semibold">
-                    Data Science & Engineering Intern
+                    Data Science Intern
                   </span>
                 </li>
                 <li>

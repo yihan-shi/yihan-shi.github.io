@@ -17,12 +17,15 @@ export default function Home() {
           <span className="block text-xl">Hi, I’m</span>
           <span className="block py-2 text-3xl font-medium">Yihan Shi!</span>
           <span className="max-w-prose py-2">
-            Based in Washington, D.C., I’m a software engineer by day and a
-            photographer by night. Prior to joining Mastercard, I graduated
-            from Duke University with a B.S. in statistics and minors in computer
-            science and neuroscience. My other hobbies include playing the piano,
-            cooking, and reading. Please feel free to contact me if you have any
-            questions or comments!
+          Based in Washington, D.C., I serve as a Senior Research Assistant at
+          Brookings, focusing on health care policy research. Previously, I
+          developed enterprise applications at Mastercard Data & Services, collaborating
+          with clients like McDonald’s, Walmart, and Bank of America. I hold a B.S. in
+          Statistics from Duke University, with minors in Computer Science and
+          Neuroscience. Beyond my professional endeavors, I enjoy playing the
+          piano, capturing moments through photography, and experimenting with
+          new recipes in the kitchen. Feel free to explore my work and reach out
+          if you’d like to connect or collaborate!
           </span>
         </p>
         <div className="py-3">
