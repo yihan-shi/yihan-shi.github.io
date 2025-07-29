@@ -133,11 +133,11 @@ export default function Experience() {
             <div className="my-1">
               <ol className="list-outside list-disc space-y-1 px-3">
                 <li className="px-1">
-                  Built a client-facing dashboard that tracks 10 key performance
+                  Built a client-facing dashboard that tracked 10 key performance
                   metrics and presented it in a live product demonstration
                 </li>
                 <li className="px-1">
-                  Created a reusable template that enables engineers to auto-generate
+                  Created a reusable template that enabled engineers to auto-generate
                   webpages for the pre-training process in a machine learning workflow
                 </li>
                 <li className="px-1">
@@ -145,7 +145,7 @@ export default function Experience() {
                   bioinformaticians’ housekeeping time by 30%
                 </li>
                 <li className="px-1">
-                  Developed infrastructure that runs simulations of patient profiles
+                  Developed infrastructure that ran simulations of patient profiles
                   100x faster, reducing manual effort by 50%
                 </li>
               </ol>
