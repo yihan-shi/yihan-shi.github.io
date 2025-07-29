@@ -12,6 +12,24 @@ export default function Publications() {
                 <li className="px-1">
                 ‘<Link
                     className="underline"
+                    href="https://www.brookings.edu/articles/us-drug-supply-chain-exposure-to-china"
+                    rel="noopener noreferrer"
+                    target="_blank">
+                    US drug supply chain exposure to China
+                  </Link>’. Wosińska ME, <span className="font-bold">Shi Y</span>
+                </li>
+                <li className="px-1">
+                ‘<Link
+                    className="underline"
+                    href="https://www.brookings.edu/articles/cumulative-net-earnings-of-drugs-selected-or-likely-to-be-selected-for-negotiation"
+                    rel="noopener noreferrer"
+                    target="_blank">
+                    Cumulative net earnings of drugs selected or likely to be selected for negotiation
+                  </Link>’. Frank RG, <span className="font-bold">Shi Y</span>
+                </li>
+                <li className="px-1">
+                ‘<Link
+                    className="underline"
                     href="https://doi.org/10.1172/jci.insight.170444"
                     rel="noopener noreferrer"
                     target="_blank">
