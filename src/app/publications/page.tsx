@@ -10,7 +10,7 @@ export default function Publications() {
             <div className="my-1">
               <ol className="list-outside list-disc space-y-1 px-3">
                 <li className="px-1">
-                ‘<Link
+                  ‘<Link
                     className="underline"
                     href="https://www.brookings.edu/articles/us-drug-supply-chain-exposure-to-china"
                     rel="noopener noreferrer"
@@ -19,7 +19,7 @@ export default function Publications() {
                   </Link>’. Wosińska ME, <span className="font-bold">Shi Y</span>
                 </li>
                 <li className="px-1">
-                ‘<Link
+                  ‘<Link
                     className="underline"
                     href="https://www.brookings.edu/articles/cumulative-net-earnings-of-drugs-selected-or-likely-to-be-selected-for-negotiation"
                     rel="noopener noreferrer"
@@ -28,7 +28,7 @@ export default function Publications() {
                   </Link>’. Frank RG, <span className="font-bold">Shi Y</span>
                 </li>
                 <li className="px-1">
-                ‘<Link
+                  ‘<Link
                     className="underline"
                     href="https://doi.org/10.1172/jci.insight.170444"
                     rel="noopener noreferrer"
@@ -65,10 +65,6 @@ export default function Publications() {
                     target="_blank">
                     Investigate the impact of Confounding Medical Interventions (CMI) in electronic health records (EHR) data
                   </Link>’. <span className="font-bold">Shi Y</span>, Goldstein B. <span className="font-bold">[Undergraduate Honors Thesis]</span>
-                </li>
-                <li className="px-1">
-                  Summer Neuroscience Program, Duke University, 2021. ‘Impact of Spinocerebellar Ataxia Type 7 on RNA expression in the respiratory
-                  motor units’. <span className="font-bold">Y. Shi</span>, D.D. Biswas, M.K. ElMallah.
                 </li>
               </ol>
             </div>
