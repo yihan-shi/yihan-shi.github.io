@@ -18,7 +18,9 @@ export default function Experience() {
               <ol className="px-4">
                 <li>
                   <MdWork className="mr-1 inline-block h-5 w-5 align-bottom" />
-                  <span className="font-semibold">Senior Research Assistant</span>
+                  <span className="font-semibold">
+                    Senior Research Assistant
+                  </span>
                 </li>
                 <li>
                   <MdAlternateEmail className="mr-1 inline-block h-5 w-5 align-bottom" />
@@ -34,23 +36,25 @@ export default function Experience() {
             <div className="my-1">
               <ol className="list-outside list-disc space-y-1 px-3">
                 <li className="px-1">
-                  Built a data pipeline integrating historical FDA drug data with
-                  real-time updates and developed an interactive dashboard visualizing
-                  U.S. drug shortage trends
+                  Co-authored research papers and comment letters with
+                  economists and lawyers on the Inflation Reduction Act,
+                  pharmaceutical import security investigations, and health
+                  insurance price transparency
                 </li>
                 <li className="px-1">
-                  Co-authored and fact-checked research papers and comment letters with
-                  economists and lawyers on the Inflation Reduction Act, pharmaceutical
-                  import security investigations, and health insurance price transparency
+                  Built a data pipeline integrating historical FDA drug data
+                  with real-time updates and developed an interactive dashboard
+                  visualizing U.S. drug shortage trends
                 </li>
                 <li className="px-1">
-                  Managed the full intern hiring process from application review to final
-                  decision and provided mentorship and supervision to the selected intern
+                  Managed the full intern hiring process from application review
+                  to final decision and provided mentorship and supervision to
+                  the 2 selected interns
                 </li>
                 <li className="px-1">
-                  Improved data access by web scraping U.S. prescription drug policy
-                  information from government websites, SEC reports, and court rulings
-                  using Python
+                  Improved data access by web scraping U.S. prescription drug
+                  policy information from government websites, SEC reports, and
+                  court rulings
                 </li>
               </ol>
             </div>
@@ -84,20 +88,21 @@ export default function Experience() {
             <div className="my-1">
               <ol className="list-outside list-disc space-y-1 px-3">
                 <li className="px-1">
-                  Led an innovative research project using variational autoencoders
-                  (a type of artificial neural network) to predict counterfactual
-                  campaign outcomes in a company-wide AI initiative
+                  Led an innovative research project using variational
+                  autoencoders (a type of artificial neural network) to predict
+                  counterfactual campaign outcomes in a company-wide AI
+                  initiative
                 </li>
                 <li className="px-1">
-                  Collaborated with UX designers and product managers to revamp the
-                  customer experience, refactoring CSS, HTML, and JavaScript to meet
-                  industry-leading accessibility and UX standards
+                  Developed full-stack web application features to serve
+                  enterprise customers such as McDonald’s, Walmart, and BoA,
+                  allowing large-scale document permission management, lookup,
+                  update, upload, and deletion services
                 </li>
                 <li className="px-1">
-                  Developed full-stack web application features to serve enterprise
-                  customers such as McDonald’s, Walmart, and BofA, allowing large-scale
-                  document permission management, lookup, update, upload, and deletion
-                  services
+                  Collaborated with UX designers and product managers to revamp
+                  the application frontend, refactoring CSS, HTML, and
+                  JavaScript to meet industry-leading accessibility standards
                 </li>
               </ol>
             </div>
@@ -115,9 +120,7 @@ export default function Experience() {
               <ol className="px-4">
                 <li>
                   <MdWork className="mr-1 inline-block h-5 w-5 align-bottom" />
-                  <span className="font-semibold">
-                    Data Science Intern
-                  </span>
+                  <span className="font-semibold">Data Science Intern</span>
                 </li>
                 <li>
                   <MdAlternateEmail className="mr-1 inline-block h-5 w-5 align-bottom" />
@@ -133,20 +136,22 @@ export default function Experience() {
             <div className="my-1">
               <ol className="list-outside list-disc space-y-1 px-3">
                 <li className="px-1">
-                  Built a client-facing dashboard that tracked 10 key performance
-                  metrics and presented it in a live product demonstration
+                  Built a client-facing dashboard that tracked 10 key
+                  performance metrics and presented it in a live product
+                  demonstration
                 </li>
                 <li className="px-1">
-                  Created a reusable template that enabled engineers to auto-generate
-                  webpages for the pre-training process in a machine learning workflow
+                  Created a reusable template that enabled engineers to
+                  auto-generate webpages for the pre-training process in a
+                  machine learning workflow
                 </li>
                 <li className="px-1">
                   Implemented an automated data-cleaning pipeline that reduced
                   bioinformaticians’ housekeeping time by 30%
                 </li>
                 <li className="px-1">
-                  Developed infrastructure that ran simulations of patient profiles
-                  100x faster, reducing manual effort by 50%
+                  Developed infrastructure that ran simulations of patient
+                  profiles 100x faster, reducing manual effort by 50%
                 </li>
               </ol>
             </div>
@@ -182,16 +187,18 @@ export default function Experience() {
             <div className="my-1">
               <ol className="list-outside list-disc space-y-1 px-3">
                 <li className="px-1">
-                  Led a team of 3 undergraduate and postdoc students to craft a
-                  rare disease genomic data science project
+                  Co-led a team of 3 undergraduate and postdoc students to
+                  develop a rare disease genomic data science project
                 </li>
                 <li className="px-1">
-                  Identified 20+ significant genes out of 35,000 using statistical
-                  techniques such as effect size shrinkage and blind dispersion estimation
+                  Identified 20+ significant genes associated with a rare
+                  neurological disorder from a pool of 35,000, using statistical
+                  methods such as effect size shrinkage and blind dispersion
+                  estimation
                 </li>
                 <li className="px-1">
-                  Mentored 2 incoming first-year researchers and drafted biomedical data
-                  science starter projects
+                  Mentored 2 incoming first-year researchers and designed
+                  biomedical data science starter projects
                 </li>
               </ol>
             </div>
@@ -222,14 +229,14 @@ export default function Experience() {
             <div className="my-1">
               <ol className="list-outside list-disc space-y-1 px-3">
                 <li className="px-1">
-                  Co-authored internal tutorial on recurrent event analysis to
-                  examine instances of alcohol-related complications after bariatric
-                  surgeries
+                  Co-authored an internal tutorial on recurrent event analysis
+                  examining instances of alcohol-related complications after
+                  bariatric surgeries
                 </li>
                 <li className="px-1">
                   Investigated algorithmic bias of inappropriate proxy variables
-                  (e.g., race, gender, and ZIP Code) in Electronic Health Record data
-                  using simulation
+                  (e.g., race, gender, and ZIP Code) in Electronic Health Record
+                  data using simulation
                 </li>
               </ol>
             </div>
