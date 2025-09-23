@@ -34,9 +34,9 @@ export default function Experience() {
             <div className="my-1">
               <ol className="list-outside list-disc space-y-1 px-3">
                 <li className="px-1">
-                  Solved a company-wide data bottleneck by independently developing 
-                  a pipeline to automate downloading, streaming, and structuring messy
-                  monthly JSON files, overcoming computing power limitations
+                  Built a data pipeline integrating historical FDA drug data with
+                  real-time updates and developed an interactive dashboard visualizing
+                  U.S. drug shortage trends
                 </li>
                 <li className="px-1">
                   Co-authored and fact-checked research papers and comment letters with
