@@ -19,7 +19,7 @@ export default function Experience() {
                 <li>
                   <MdWork className="mr-1 inline-block h-5 w-5 align-bottom" />
                   <span className="font-semibold">
-                    Senior Research Assistant
+                    Research Analyst
                   </span>
                 </li>
                 <li>

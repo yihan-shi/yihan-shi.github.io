@@ -17,7 +17,7 @@ export default function Home() {
           <span className="block text-xl">Hi, I’m</span>
           <span className="block py-2 text-3xl font-medium">Yihan Shi!</span>
           <span className="max-w-prose py-2">
-          Based in Washington, D.C., I serve as a Senior Research Assistant at
+          Based in Washington, D.C., I serve as a Research Analyst at
           Brookings, focusing on health care policy research. Previously, I
           developed enterprise applications at Mastercard Data & Services, collaborating
           with clients like McDonald’s, Walmart, and Bank of America. I hold a B.S. in
