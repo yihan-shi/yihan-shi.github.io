@@ -12,6 +12,15 @@ export default function Publications() {
                 <li className="px-1">
                   ‘<Link
                     className="underline"
+                    href="https://www.brookings.edu/articles/comments-on-the-transparency-in-coverage-proposed-rule"
+                    rel="noopener noreferrer"
+                    target="_blank">
+                    Comments on the Transparency in Coverage proposed rule
+                  </Link>’. Fiedler M, <span className="font-bold">Shi Y</span>
+                </li>
+                <li className="px-1">
+                  ‘<Link
+                    className="underline"
                     href="https://www.brookings.edu/articles/us-drug-supply-chain-exposure-to-china"
                     rel="noopener noreferrer"
                     target="_blank">
